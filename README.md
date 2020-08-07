@@ -1,2 +1,2 @@
 # swap-two-numbers-in-c-plus-plus
-Swap two numbers
+C++ Swap two numbers
